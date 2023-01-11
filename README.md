@@ -1,13 +1,15 @@
+Basado en el proyecto <a href="https://github.com/LaQuay/TDTChannels-APP">LaQuay/TDTChannels-APP</a>
+
 Disfruta de los canales de televisión y radio proporcionados de forma gratuita, legal y sin anuncios en tu dispositivo Android!
 
 La aplicación es compatible con cualquier dispositivo Android 4.4 o superior. 
 También funciona en Android TV y Fire TV, aunque no está optimizada para ello.
 
 ### Funciones principales
-- Reproductor de canales de televisión
-- Reproductor de emisoras de radio
-- Selección de canales favoritos
-- Filtrado de canales por país y/o comunidades autónomas
+- Reproductor de canales de televisión.
+- Reproductor de emisoras de radio.
+- Selección de canales favoritos.
+- Filtrado de canales por país y/o comunidades autónomas de España.
 
 ### Licencia del proyecto
 Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio y aplicación, el único condicionante es que se debe poder ver explícitamente que la aplicación en la que está basada procede de este repositorio.
